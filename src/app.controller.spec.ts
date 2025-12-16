@@ -15,7 +15,7 @@ describe('AppController', () => {
   });
 
   describe('root', () => {
-    it('this is a small complicated code foebw shdhsjsbdjbsjbj"', () => {
+    it('this using rebase lets implement dhsjsbdjbsjbj"', () => {
       expect(appController.getUser()).toBe('Hello World!');
     });
   });
